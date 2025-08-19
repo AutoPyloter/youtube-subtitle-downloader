@@ -12,7 +12,7 @@ Bu Python modülü, YouTube videolarından altyazı bilgilerini çekmek için ku
 ## Kurulum
 1. Bu depoyu klonlayın:
    ```bash
-   git clone https://github.com/kullanici_adiniz/youtube-subtitle-fetcher.git
+   git clone https://github.com/AutoPyloter/youtube-subtitle-fetcher.git
    cd youtube-subtitle-fetcher
    ```
 

@@ -122,10 +122,10 @@ Katkılarınızı memnuniyetle karşılıyoruz! Lütfen değişiklik yapmadan ö
 5. Bir Pull Request oluşturun
 
 ## Yazar
-- [Kullanıcı Adınız](https://github.com/kullanici_adiniz)
+- [AutoPyloter](https://github.com/AutoPyloter)
 
 ## Destek
-Sorularınız veya önerileriniz için lütfen [Issues](https://github.com/kullanici_adiniz/youtube-subtitle-fetcher/issues) bölümünü kullanın.
+Sorularınız veya önerileriniz için lütfen [Issues](https://github.com/AutoPyloter/youtube-subtitle-fetcher/issues) bölümünü kullanın.
 ```
 
 ### 2. requirements.txt
@@ -443,32 +443,3 @@ if __name__ == "__main__":
     main()
 ```
 
-### GitHub Deposu Oluşturma Adımları:
-
-1. GitHub'da yeni depo oluşturun:
-   - Repository name: `youtube-subtitle-fetcher`
-   - Description: `YouTube videolarından altyazı çekmek için Python modülü`
-   - Public/Private seçeneğini belirleyin
-   - "Add a README file" seçeneğini işaretleyin
-   - "Create repository" butonuna tıklayın
-
-2. Dosyaları yükleyin:
-   - Depo ana sayfasında "Add file" > "Upload files" seçeneğini kullanın
-   - Yukarıdaki 4 dosyayı (README.md, requirements.txt, LICENSE, youtube_subtitle_fetcher.py) yükleyin
-   - Her bir dosya için "Commit changes" butonuna tıklayın
-
-3. Projenizi kullanmak için:
-   ```bash
-   git clone https://github.com/kullanici_adiniz/youtube-subtitle-fetcher.git
-   cd youtube-subtitle-fetcher
-   pip install -r requirements.txt
-   python youtube_subtitle_fetcher.py
-   ```
-
-Bu yapılandırmayla projeniz:
-- Açık kaynaklı bir GitHub deposuna sahip olacak
-- Türkçe dokümantasyon içerecek
-- Kolay kurulum ve kullanım sağlayacak
-- MIT lisansı ile paylaşılabilir olacak
-- Hem modül olarak hem de demo olarak kullanılabilecek
-- Gereksinimler ve kullanım talimatları net bir şekilde belirtilecek

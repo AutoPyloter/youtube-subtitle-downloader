@@ -1,5 +1,3 @@
-### 1. README.md
-```markdown
 # YouTube Altyazı Çekici Modülü
 
 Bu Python modülü, YouTube videolarından altyazı bilgilerini çekmek için kullanılır. Hem manuel hem de otomatik altyazıları destekler.

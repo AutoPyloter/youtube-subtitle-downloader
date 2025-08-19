@@ -126,5 +126,5 @@ Katkılarınızı memnuniyetle karşılıyoruz! Lütfen değişiklik yapmadan ö
 
 ## Destek
 Sorularınız veya önerileriniz için lütfen [Issues](https://github.com/AutoPyloter/youtube-subtitle-fetcher/issues) bölümünü kullanın.
-```
+
 
